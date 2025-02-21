@@ -15,5 +15,12 @@
     "url": "https://github.com/yannam-hema/React/issues"
   },
   "homepage": "https://github.com/yannam-hema/React#readme",
-  "description": ""
+  "description": "Revising React Concepts",
+  "keywords": [
+    "Hema",
+    "React"
+  ],
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
 }
